@@ -3,6 +3,7 @@ listenPort=8888
 #proxyHost=localhost
 #proxyPort=8889
 
+
 [Mapping]
 www.enjoyxstudy.com
 /base.css -> c:/test/css/base.css
